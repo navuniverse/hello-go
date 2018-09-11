@@ -35,8 +35,6 @@ func addition() {
 
 	readParams(&a, &b)
 
-	//	fmt.Println("You Entered Numbers - One: ", a, ", Two: ", b)
-
 	fmt.Print("Addition : ")
 	fmt.Println(a + b)
 }
